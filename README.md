@@ -57,10 +57,11 @@ A Hardware Inventory, Sales, and Customer Management System built with Django.
 
 
 
-##  Connect With Me
+## 📫 Connect With Me
 
--  Email: mirembejanemugeni@gmail.com
--  LinkedIn: www.linkedin.com/in/mirembe-jane-40a988402
+- 📧 **Email:** <mirembejanemugeni@gmail.com>
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mirembe-jane-40a988402
+- 💻 **GitHub:** https://github.com/mirembejanegift
 
 
 
