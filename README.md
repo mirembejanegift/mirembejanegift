@@ -6,13 +6,6 @@
  Passionate about building web applications that solve real-world problems.
 
 
-
- About Me
-
-I'm a software engineering student with a passion for creating practical and user-friendly applications. I enjoy learning new technologies, solving problems, and collaborating on meaningful projects.
-
-I'm currently expanding my skills in full-stack web development and continuously improving my knowledge of software engineering best practices.
-
 ---
 
  Currently Learning
@@ -57,11 +50,21 @@ A Hardware Inventory, Sales, and Customer Management System built with Django.
 
 
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-- 📧 **Email:** mirembejanegift@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mirembe-jane-40a988402
-- 💻 **GitHub:** https://github.com/mirembejanegift
+<p align="left">
+  <a href="mailto:mirembejanegift@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mirembe-jane-40a988402" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mirembejanegift" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 
